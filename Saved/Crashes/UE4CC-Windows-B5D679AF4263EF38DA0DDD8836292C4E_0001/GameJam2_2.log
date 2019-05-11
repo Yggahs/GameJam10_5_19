@@ -1,0 +1,947 @@
+﻿Log file open, 05/11/19 15:21:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GameJam2_2
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.268308
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6063286
+LogInit: Engine Version: 4.22.1-6063286+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Apr 24 2019 04:36:48
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=Yggahs -epicuserid=21475b03444f4d25a6be0bef5d24da06 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.11-13.21.16:054][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.11-13.21.16:054][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.11-13.21.16:054][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/aless/Documents/GameJam10_5_19/Saved/Config/Windows/Engine.ini]
+[2019.05.11-13.21.16:054][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.11-13.21.16:054][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/aless/Documents/GameJam10_5_19/Saved/Config/Windows/Engine.ini]
+[2019.05.11-13.21.16:055][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/aless/Documents/GameJam10_5_19/Saved/Config/Windows/Engine.ini]
+[2019.05.11-13.21.16:055][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.11-13.21.16:055][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.11-13.21.16:055][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.11-13.21.16:055][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.11-13.21.16:055][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.11-13.21.16:055][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.11-13.21.16:055][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.11-13.21.16:055][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.11-13.21.16:055][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.11-13.21.16:055][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.11-13.21.16:055][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.11-13.21.16:055][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.11-13.21.16:055][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.11-13.21.16:055][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/aless/Documents/GameJam10_5_19/Saved/Config/Windows/Engine.ini]
+[2019.05.11-13.21.16:055][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.11-13.21.16:055][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.11-13.21.16:055][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.11-13.21.16:055][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.11-13.21.16:055][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.11-13.21.16:055][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.11-13.21.16:055][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.05.11-13.21.16:055][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.11-13.21.16:055][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.11-13.21.16:055][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.11-13.21.16:055][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.11-13.21.16:055][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.11-13.21.16:055][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.11-13.21.16:055][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/aless/Documents/GameJam10_5_19/Saved/Config/Windows/Engine.ini]
+[2019.05.11-13.21.16:055][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/aless/Documents/GameJam10_5_19/Saved/Config/Windows/Engine.ini]
+[2019.05.11-13.21.16:057][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/aless/Documents/GameJam10_5_19/Saved/Config/Windows/Scalability.ini]
+[2019.05.11-13.21.16:057][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.11-13.21.16:057][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.11-13.21.16:057][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/aless/Documents/GameJam10_5_19/Saved/Config/Windows/Scalability.ini]
+[2019.05.11-13.21.16:057][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.11-13.21.16:057][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/aless/Documents/GameJam10_5_19/Saved/Config/Windows/Scalability.ini]
+[2019.05.11-13.21.16:057][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.11-13.21.16:057][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.11-13.21.16:057][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.11-13.21.16:057][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.11-13.21.16:057][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.11-13.21.16:057][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.11-13.21.16:057][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.11-13.21.16:057][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.11-13.21.16:057][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.11-13.21.16:057][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.11-13.21.16:057][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.11-13.21.16:057][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.11-13.21.16:057][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.11-13.21.16:057][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.11-13.21.16:057][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.11-13.21.16:057][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.11-13.21.16:057][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.11-13.21.16:057][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.11-13.21.16:057][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/aless/Documents/GameJam10_5_19/Saved/Config/Windows/Scalability.ini]
+[2019.05.11-13.21.16:057][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.11-13.21.16:057][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.11-13.21.16:057][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/aless/Documents/GameJam10_5_19/Saved/Config/Windows/Scalability.ini]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/aless/Documents/GameJam10_5_19/Saved/Config/Windows/Scalability.ini]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/aless/Documents/GameJam10_5_19/Saved/Config/Windows/Scalability.ini]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.11-13.21.16:058][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.11-13.21.16:058][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.11-13.21.16:058][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.11-13.21.16:070][  0]LogHAL: Display: Platform has ~ 8 GB [8476856320 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.05.11-13.21.16:070][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.11-13.21.16:070][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [C:/Users/aless/Documents/GameJam10_5_19/Saved/Config/Windows/Scalability.ini]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [C:/Users/aless/Documents/GameJam10_5_19/Saved/Config/Windows/Scalability.ini]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/aless/Documents/GameJam10_5_19/Saved/Config/Windows/Scalability.ini]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [C:/Users/aless/Documents/GameJam10_5_19/Saved/Config/Windows/Scalability.ini]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [C:/Users/aless/Documents/GameJam10_5_19/Saved/Config/Windows/Scalability.ini]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [C:/Users/aless/Documents/GameJam10_5_19/Saved/Config/Windows/Scalability.ini]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [C:/Users/aless/Documents/GameJam10_5_19/Saved/Config/Windows/Scalability.ini]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2019.05.11-13.21.16:070][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.11-13.21.16:071][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.11-13.21.16:071][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.05.11-13.21.16:071][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/aless/Documents/GameJam10_5_19/Saved/Config/Windows/Engine.ini]
+[2019.05.11-13.21.16:071][  0]LogInit: Computer: ALESSIO
+[2019.05.11-13.21.16:071][  0]LogInit: User: aless
+[2019.05.11-13.21.16:071][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.11-13.21.16:071][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.05.11-13.21.16:071][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.05.11-13.21.16:071][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.11-13.21.16:071][  0]LogMemory: Process Physical Memory: 98.79 MB used, 98.79 MB peak
+[2019.05.11-13.21.16:071][  0]LogMemory: Process Virtual Memory: 93.00 MB used, 93.00 MB peak
+[2019.05.11-13.21.16:071][  0]LogMemory: Physical Memory: 4809.86 MB used,  3274.30 MB free, 8084.16 MB total
+[2019.05.11-13.21.16:071][  0]LogMemory: Virtual Memory: 4661.41 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.05.11-13.21.16:094][  0]LogInit: Using OS detected language (en-US).
+[2019.05.11-13.21.16:094][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.11-13.21.16:094][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.11-13.21.16:243][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.11-13.21.16:273][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.11-13.21.16:273][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.11-13.21.16:472][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.11-13.21.16:472][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.11-13.21.16:539][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.05.11-13.21.16:539][  0]LogD3D11RHI:       4021/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.11-13.21.16:551][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.05.11-13.21.16:551][  0]LogD3D11RHI:       128/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.11-13.21.16:553][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.11-13.21.16:553][  0]LogD3D11RHI:       0/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.11-13.21.16:553][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.11-13.21.16:580][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.11-13.21.16:580][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.05.11-13.21.16:580][  0]LogWindows: EnumDisplayDevices:
+[2019.05.11-13.21.16:580][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.05.11-13.21.16:580][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.11-13.21.16:580][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.11-13.21.16:581][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.05.11-13.21.16:581][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.05.11-13.21.16:581][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.05.11-13.21.16:581][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.05.11-13.21.16:581][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2019.05.11-13.21.16:658][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.11-13.21.16:661][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.11-13.21.16:662][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.11-13.21.16:662][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.11-13.21.16:670][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.11-13.21.17:015][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.05.11-13.21.17:029][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.05.11-13.21.17:042][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.05.11-13.21.17:055][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.05.11-13.21.17:068][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.05.11-13.21.17:082][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.05.11-13.21.17:095][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.05.11-13.21.17:108][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.05.11-13.21.17:115][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.05.11-13.21.17:193][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.05.11-13.21.17:193][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.05.11-13.21.17:193][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.05.11-13.21.17:193][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.05.11-13.21.17:193][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.05.11-13.21.17:193][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.05.11-13.21.17:193][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.05.11-13.21.17:193][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.05.11-13.21.17:193][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.05.11-13.21.17:193][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.05.11-13.21.17:193][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.05.11-13.21.17:193][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.05.11-13.21.17:193][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.05.11-13.21.17:193][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.05.11-13.21.17:193][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.05.11-13.21.17:193][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.05.11-13.21.17:193][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.05.11-13.21.17:193][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.05.11-13.21.17:195][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.05.11-13.21.17:248][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.05.11-13.21.17:248][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.05.11-13.21.17:280][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.05.11-13.21.17:280][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.05.11-13.21.17:293][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.05.11-13.21.17:306][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.05.11-13.21.17:318][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.05.11-13.21.17:331][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.05.11-13.21.17:375][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.05.11-13.21.17:375][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.05.11-13.21.17:375][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.11-13.21.17:383][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.05.11-13.21.17:435][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../../Users/aless/Documents/GameJam10_5_19/Intermediate/Shaders/WorkingDirectory/12584/).
+[2019.05.11-13.21.17:435][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aless/AppData/Local/Temp/UnrealShaderWorkingDir/7D3186324331378AB76B87BCF1090AA2/'.
+[2019.05.11-13.21.17:438][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.11-13.21.17:438][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.11-13.21.17:438][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.11-13.21.17:986][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.11-13.21.18:040][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/aless/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.11-13.21.18:040][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/aless/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.05.11-13.21.18:041][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/aless/Documents/GameJam10_5_19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.11-13.21.18:041][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.11-13.21.18:041][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/aless/Documents/GameJam10_5_19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.11-13.21.18:041][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.11-13.21.18:053][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.11-13.21.18:054][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.11-13.21.18:054][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.11-13.21.18:067][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aless/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.11-13.21.18:067][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.11-13.21.18:067][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.11-13.21.18:090][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.11-13.21.18:091][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.11-13.21.18:091][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.11-13.21.18:172][  0]LogAssetRegistry: FAssetRegistry took 0.0333 seconds to start up
+[2019.05.11-13.21.18:487][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.11-13.21.19:075][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.11-13.21.19:076][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.05.11-13.21.19:076][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.11-13.21.19:076][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.05.11-13.21.19:076][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.05.11-13.21.19:202][  0]LogNetVersion: GameJam2_2 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3900611970)
+[2019.05.11-13.21.20:010][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.047225 seconds
+[2019.05.11-13.21.20:016][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.05.11-13.21.20:016][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.05.11-13.21.20:016][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.11-13.21.20:794][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.11-13.21.20:808][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.11-13.21.20:908][  0]SourceControl: Source control is disabled
+[2019.05.11-13.21.20:908][  0]SourceControl: Source control is disabled
+[2019.05.11-13.21.20:909][  0]SourceControl: Source control is disabled
+[2019.05.11-13.21.20:910][  0]SourceControl: Source control is disabled
+[2019.05.11-13.21.20:980][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.11-13.21.21:045][  0]LogOcInput: OculusInput pre-init called
+[2019.05.11-13.21.22:834][  0]LogEngine: Initializing Engine...
+[2019.05.11-13.21.22:835][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.11-13.21.22:836][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.05.11-13.21.23:038][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.11-13.21.23:053][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.11-13.21.23:116][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.11-13.21.23:841][  0]LogInit: FAudioDevice initialized.
+[2019.05.11-13.21.23:841][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.11-13.21.24:191][  0]LogDerivedDataCache: Saved boot cache 0.35s 71MB C:/Users/aless/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.11-13.21.24:201][  0]LogInit: Texture streaming: Enabled
+[2019.05.11-13.21.24:218][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.11-13.21.24:238][  0]LogInit: Transaction tracking system initialized
+[2019.05.11-13.21.24:261][  0]BlueprintLog: New page: Editor Load
+[2019.05.11-13.21.24:341][  0]LocalizationService: Localization service is disabled
+[2019.05.11-13.21.25:102][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aless/Documents/GameJam10_5_19/Content/' took 0.02s
+[2019.05.11-13.21.25:102][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.11-13.21.25:102][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.11-13.21.25:276][  0]SourceControl: Source control is disabled
+[2019.05.11-13.21.25:277][  0]Cmd: MAP LOAD FILE="../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.11-13.21.25:277][  0]LightingResults: New page: Lighting Build
+[2019.05.11-13.21.25:280][  0]MapCheck: New page: Map Check
+[2019.05.11-13.21.25:280][  0]LightingResults: New page: Lighting Build
+[2019.05.11-13.21.25:306][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.05.11-13.21.26:511][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/ThirdPersonBP/Blueprints/Inventory/InventoryComponent.InventoryComponent_C:AddToStack.SlotStructure'. Unknown structure.
+[2019.05.11-13.21.26:511][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/ThirdPersonBP/Blueprints/Inventory/InventoryComponent.InventoryComponent_C:AddToStack.K2Node_MakeStruct_SlotStructure'. Unknown structure.
+[2019.05.11-13.21.26:511][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/ThirdPersonBP/Blueprints/Inventory/InventoryComponent.InventoryComponent_C:AddToStack.K2Node_MakeStruct_SlotStructure1'. Unknown structure.
+[2019.05.11-13.21.26:511][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/ThirdPersonBP/Blueprints/Inventory/InventoryComponent.InventoryComponent_C:AddToStack.CallFunc_Array_Get_Item'. Unknown structure.
+[2019.05.11-13.21.26:511][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/ThirdPersonBP/Blueprints/Inventory/InventoryComponent.InventoryComponent_C:AddToStack.K2Node_MakeStruct_SlotStructure2'. Unknown structure.
+[2019.05.11-13.21.26:511][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/ThirdPersonBP/Blueprints/Inventory/InventoryComponent.InventoryComponent_C:AddToStack.CallFunc_Array_Get_Item1'. Unknown structure.
+[2019.05.11-13.21.26:512][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/ThirdPersonBP/Blueprints/Inventory/InventoryComponent.InventoryComponent_C:CreateStack.ContentToAdd'. Unknown structure.
+[2019.05.11-13.21.26:512][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/ThirdPersonBP/Blueprints/Inventory/InventoryComponent.InventoryComponent_C:CreateStack.K2Node_MakeStruct_SlotStructure'. Unknown structure.
+[2019.05.11-13.21.26:512][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/ThirdPersonBP/Blueprints/Inventory/InventoryComponent.InventoryComponent_C:AddToInventory.ContentToAdd'. Unknown structure.
+[2019.05.11-13.21.26:512][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/ThirdPersonBP/Blueprints/Inventory/InventoryComponent.InventoryComponent_C:AddToInventory.CallFunc_Array_Get_Item'. Unknown structure.
+[2019.05.11-13.21.26:512][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/ThirdPersonBP/Blueprints/Inventory/InventoryComponent.InventoryComponent_C:Inventory.Inventory'. Unknown structure.
+[2019.05.11-13.21.27:256][  0]LogClass: Warning: Property Inventory of Inventory has a struct type mismatch (tag FallbackStruct != prop SlotStructure) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2019.05.11-13.21.28:242][  0]LogAIModule: Creating AISystem for world ProceduralLevels
+[2019.05.11-13.21.28:256][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ThirdPersonBP/Maps/ProceduralLevels/Procedural01) is flushing async loading
+[2019.05.11-13.21.28:256][  0]LogStreaming: Display: Flushing async loaders.
+[2019.05.11-13.21.28:454][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ThirdPersonBP/Maps/ProceduralLevels/Procedural02) is flushing async loading
+[2019.05.11-13.21.28:638][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ThirdPersonBP/Maps/ProceduralLevels/Procedural03) is flushing async loading
+[2019.05.11-13.21.28:954][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.11-13.21.28:983][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.05.11-13.21.28:983][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.11-13.21.28:983][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.277ms to complete.
+[2019.05.11-13.21.28:983][  0]LogFileHelpers: Loading map 'ProceduralLevels' took 3.706
+[2019.05.11-13.21.29:327][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.21.29:333][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.21.29:341][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.21.29:348][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.21.29:372][  0]LogCollectionManager: Loaded 0 collections in 0.001678 seconds
+[2019.05.11-13.21.29:540][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aless/Documents/GameJam10_5_19/Saved/Collections/' took 0.01s
+[2019.05.11-13.21.29:540][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aless/Documents/GameJam10_5_19/Content/Developers/aless/Collections/' took 0.00s
+[2019.05.11-13.21.29:540][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aless/Documents/GameJam10_5_19/Content/Collections/' took 0.00s
+[2019.05.11-13.21.29:540][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.11-13.21.29:549][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2732 classes and 659 folders.
+[2019.05.11-13.21.29:595][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.11-13.21.29:683][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.11-13.21.29:760][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.11-13.21.29:831][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.11-13.21.29:851][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.11-13.21.29:872][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.11-13.21.29:883][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.11-13.21.29:894][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.11-13.21.29:909][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.11-13.21.29:917][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.11-13.21.29:932][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.11-13.21.29:947][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.11-13.21.29:953][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.11-13.21.30:012][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.11-13.21.30:018][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.11-13.21.30:045][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.11-13.21.30:051][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.11-13.21.30:087][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.11-13.21.30:102][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.11-13.21.30:143][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.11-13.21.30:150][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.11-13.21.30:156][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.11-13.21.30:164][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.11-13.21.30:170][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.11-13.21.30:200][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.11-13.21.30:282][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.11-13.21.30:288][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.11-13.21.31:627][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.11-13.21.31:685][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.05.11-13.21.31:699][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.11-13.21.31:703][  0]LogSlate: Took 0.000330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.11-13.21.31:731][  0]LogSlate: Took 0.020443 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.11-13.21.31:937][  0]LogRenderer: Reallocating scene render targets to support 992x472 Format 9 NumSamples 1 (Frame:1).
+[2019.05.11-13.21.32:144][  0]LogSlate: Took 0.120782 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.11-13.21.32:275][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.11-13.21.32:275][  0]LogLoad: (Engine Initialization) Total time: 18.15 seconds
+[2019.05.11-13.21.32:275][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.11-13.21.32:416][  0]LogAssetRegistry: Asset discovery search completed in 14.2661 seconds
+[2019.05.11-13.21.32:418][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.11-13.21.32:418][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000038 seconds (updated 0 objects)
+[2019.05.11-13.21.32:420][  0]LogContentStreaming: Texture pool size now 400 MB
+[2019.05.11-13.21.40:007][384]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.11-13.21.40:616][420]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.11-13.21.43:114][545]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.11-13.21.45:839][708]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.11-13.21.46:057][708]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2019.05.11-13.21.52:659][ 57]LogSlate: Window 'Levels' being destroyed
+[2019.05.11-13.21.53:827][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.22.14:215][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.22.19:346][588]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.11-13.22.20:757][673]LogEditorViewport: Clicking Background
+[2019.05.11-13.22.21:087][690]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.11-13.22.27:194][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.22.29:061][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.22.33:833][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.22.38:012][680]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.11-13.22.45:184][107]LogSlate: FSceneViewport::OnFocusLost() reason 1
+[2019.05.11-13.22.48:655][201]LogEditorViewport: Clicking Background
+[2019.05.11-13.23.03:454][ 88]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 1
+[2019.05.11-13.23.03:771][107]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 1
+[2019.05.11-13.23.03:804][109]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 2
+[2019.05.11-13.23.03:938][117]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2019.05.11-13.23.04:221][134]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 4
+[2019.05.11-13.23.06:646][278]Cmd: ACTOR HIDE SELECTED
+[2019.05.11-13.23.07:787][278]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.11-13.23.07:787][278]Can't find target actor or component.
+[2019.05.11-13.23.07:788][278]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.11-13.23.07:788][278]Can't find target actor or component.
+[2019.05.11-13.24.47:329][418]LogRenderer: Reallocating scene render targets to support 992x504 Format 9 NumSamples 1 (Frame:5060).
+[2019.05.11-13.24.50:932][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.24.54:765][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.24.56:649][735]LogEditorViewport: Clicking Background
+[2019.05.11-13.24.57:720][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.24.59:108][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.25.02:666][ 81]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.11-13.25.02:667][ 81]Can't find target actor or component.
+[2019.05.11-13.25.03:152][109]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.11-13.25.03:152][109]Can't find target actor or component.
+[2019.05.11-13.25.04:435][186]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.11-13.25.04:435][186]Can't find target actor or component.
+[2019.05.11-13.25.11:778][625]LogEditorViewport: Clicking on Actor (LMB): Bat_C (Bat)
+[2019.05.11-13.25.13:417][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.25.17:385][925]LogSlate: Took 0.000566 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.11-13.25.17:395][925]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ProceduralLevels/Procedural01.Procedural01
+[2019.05.11-13.25.17:423][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.05.11-13.25.20:206][925]LogSlate: Window 'Save Content' being destroyed
+[2019.05.11-13.25.20:244][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.05.11-13.25.20:625][925]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/ProceduralLevelsD4DBD1F848F89441A32EDCA0AB81DC38.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels.umap'
+[2019.05.11-13.25.21:531][925]LogFileHelpers: Saving map 'ProceduralLevels' took 1.317
+[2019.05.11-13.25.21:537][925]Cmd: MAP LOAD FILE="../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels/Procedural01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.11-13.25.21:537][925]LightingResults: New page: Lighting Build
+[2019.05.11-13.25.21:538][925]LoadErrors: New page: Loading map: Procedural01.umap
+[2019.05.11-13.25.21:541][925]MapCheck: New page: Map Check
+[2019.05.11-13.25.21:541][925]LightingResults: New page: Lighting Build
+[2019.05.11-13.25.21:573][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.05.11-13.25.21:574][925]LogAIModule: Creating AISystem for world Procedural01
+[2019.05.11-13.25.21:575][925]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.11-13.25.21:602][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.05.11-13.25.21:637][925]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.11-13.25.21:637][925]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2019.05.11-13.25.21:638][925]LogFileHelpers: Loading map 'Procedural01' took 0.103
+[2019.05.11-13.25.21:705][925]LogAIModule: Creating AISystem for world ProceduralLevels
+[2019.05.11-13.25.21:735][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.05.11-13.25.30:259][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.25.37:233][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.26.02:791][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.26.06:112][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.26.11:930][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.26.19:083][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.26.22:888][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.26.41:384][352]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.762 s
+[2019.05.11-13.26.41:384][352]LogOutputDevice: Error: === Handled ensure: ===
+[2019.05.11-13.26.41:384][352]LogOutputDevice: Error: 
+[2019.05.11-13.26.41:384][352]LogOutputDevice: Error: Ensure condition failed: Y != 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\GenericPlatform\GenericPlatformMath.cpp] [Line: 105]
+[2019.05.11-13.26.41:384][352]LogOutputDevice: Error: FMath::FMod(X=4434375475200.000000, Y=0.000000) : Y is zero, this is invalid and would result in NaN!
+[2019.05.11-13.26.41:384][352]LogOutputDevice: Error: Stack: 
+[2019.05.11-13.26.41:384][352]LogOutputDevice: Error: [Callstack] 0x00007ffd85acf333 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.11-13.26.41:384][352]LogOutputDevice: Error: [Callstack] 0x00007ffd856275f5 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.11-13.26.41:384][352]LogOutputDevice: Error: [Callstack] 0x00007ffd7bbb3bf0 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.05.11-13.26.41:384][352]LogOutputDevice: Error: [Callstack] 0x00007ffd7bb0decb UE4Editor-Renderer.dll!UnknownFunction []
+[2019.05.11-13.26.41:384][352]LogOutputDevice: Error: [Callstack] 0x00007ffd7baec7b8 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.05.11-13.26.41:384][352]LogOutputDevice: Error: [Callstack] 0x00007ffd7bb6cb36 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.05.11-13.26.41:384][352]LogOutputDevice: Error: [Callstack] 0x00007ffd7b69a5f6 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.05.11-13.26.41:384][352]LogOutputDevice: Error: [Callstack] 0x00007ffd7bafe5b0 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.05.11-13.26.41:384][352]LogOutputDevice: Error: [Callstack] 0x00007ffd7badd812 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.05.11-13.26.41:384][352]LogOutputDevice: Error: [Callstack] 0x00007ffd855f22d8 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.11-13.26.41:384][352]LogOutputDevice: Error: [Callstack] 0x00007ffd855f2563 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.11-13.26.41:384][352]LogOutputDevice: Error: [Callstack] 0x00007ffdad4d59e1 UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.05.11-13.26.41:384][352]LogOutputDevice: Error: [Callstack] 0x00007ffdad4dc174 UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.05.11-13.26.41:384][352]LogOutputDevice: Error: [Callstack] 0x00007ffd859e4b0f UE4Editor-Core.dll!UnknownFunction []
+[2019.05.11-13.26.41:384][352]LogOutputDevice: Error: [Callstack] 0x00007ffd859e0877 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.11-13.26.41:384][352]LogOutputDevice: Error: [Callstack] 0x00007ffdd3d27974 KERNEL32.DLL!UnknownFunction []
+[2019.05.11-13.26.41:384][352]LogOutputDevice: Error: [Callstack] 0x00007ffdd4a5a271 ntdll.dll!UnknownFunction []
+[2019.05.11-13.26.41:384][352]LogOutputDevice: Error: 
+[2019.05.11-13.26.41:384][352]LogStats:                SubmitErrorReport -  0.000 s
+[2019.05.11-13.26.50:839][352]LogStats:                    SendNewReport -  9.455 s
+[2019.05.11-13.26.50:839][352]LogStats:             FDebug::EnsureFailed - 12.217 s
+[2019.05.11-13.26.50:868][352]Cmd: TRANSACTION UNDO
+[2019.05.11-13.26.50:868][352]LogEditorTransaction: Undo Scale Actors
+[2019.05.11-13.26.50:903][352]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.11-13.26.51:112][352]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.11-13.26.51:157][352]LogEditorViewport: Clicking Background
+[2019.05.11-13.26.54:534][477]LogEditorViewport: Clicking Background
+[2019.05.11-13.26.58:569][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.27.05:052][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.27.22:211][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.27.24:786][263]LogScript: Warning: Accessed None trying to read property Instigator
+	ThirdPerson_AnimBP_C /Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0138
+[2019.05.11-13.27.24:786][263]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0166
+[2019.05.11-13.27.34:851][608]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.05.11-13.27.40:548][892]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Inventory/Items/Spawner.Spawner
+[2019.05.11-13.27.40:955][892]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.05.11-13.27.42:079][892]LogRenderer: Reallocating scene render targets to support 992x540 Format 9 NumSamples 1 (Frame:1).
+[2019.05.11-13.27.52:131][485]LogSlate: Window 'Spawner' being destroyed
+[2019.05.11-13.27.52:138][485]LogSlate: Window 'Spawner' being destroyed
+[2019.05.11-13.29.03:352][326]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.11-13.29.24:252][546]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ProceduralLevels.ProceduralLevels
+[2019.05.11-13.29.24:295][546]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2019.05.11-13.29.25:566][546]LogSlate: Window 'Save Content' being destroyed
+[2019.05.11-13.29.25:590][546]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/Spawner54B1B59444125E94AF04AA9171F1F006.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Blueprints/Inventory/Items/Spawner.uasset'
+[2019.05.11-13.29.25:630][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.05.11-13.29.25:780][546]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/Procedural010F15ED254AE26D05E27F45BBEF059307.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels/Procedural01.umap'
+[2019.05.11-13.29.26:897][546]LogFileHelpers: Saving map 'Procedural01' took 1.303
+[2019.05.11-13.29.26:902][546]Cmd: MAP LOAD FILE="../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.11-13.29.26:902][546]LightingResults: New page: Lighting Build
+[2019.05.11-13.29.26:903][546]LoadErrors: New page: Loading map: ProceduralLevels.umap
+[2019.05.11-13.29.26:915][546]MapCheck: New page: Map Check
+[2019.05.11-13.29.26:915][546]LightingResults: New page: Lighting Build
+[2019.05.11-13.29.26:951][546]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2019.05.11-13.29.26:955][546]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ThirdPersonBP/Maps/ProceduralLevels/Procedural02) is flushing async loading
+[2019.05.11-13.29.26:956][546]LogStreaming: Display: Flushing async loaders.
+[2019.05.11-13.29.26:962][546]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ThirdPersonBP/Maps/ProceduralLevels/Procedural01) is flushing async loading
+[2019.05.11-13.29.26:967][546]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ThirdPersonBP/Maps/ProceduralLevels/Procedural03) is flushing async loading
+[2019.05.11-13.29.26:972][546]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.11-13.29.27:014][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.05.11-13.29.27:049][546]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.11-13.29.27:052][546]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.563ms to complete.
+[2019.05.11-13.29.27:053][546]LogFileHelpers: Loading map 'ProceduralLevels' took 0.152
+[2019.05.11-13.29.41:082][380]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.11-13.29.51:161][935]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.05.11-13.30.02:309][556]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ProceduralLevels.ProceduralLevels:PersistentLevel.ProceduralLevels
+[2019.05.11-13.30.03:329][556]LogSlate: Took 0.694623 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.11-13.30.03:649][557]LogSlate: Took 0.043923 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.11-13.31.16:024][518]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2019.05.11-13.31.18:064][518]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.11-13.31.18:418][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.05.11-13.31.18:455][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.05.11-13.31.18:489][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.05.11-13.32.08:528][304]BlueprintLog: New page: Compile ProceduralLevels
+[2019.05.11-13.32.08:689][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.05.11-13.35.56:876][220]LogSlate: Took 0.175358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.05.11-13.39.31:401][ 37]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.11-13.42.47:200][ 87]BlueprintLog: New page: Compile ProceduralLevels
+[2019.05.11-13.42.47:382][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.05.11-13.42.49:425][195]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.05.11-13.42.49:498][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.05.11-13.42.49:732][195]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/ProceduralLevels8672B86C41B8906A2670AB9103CB8CCF.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels.umap'
+[2019.05.11-13.42.49:771][195]LogFileHelpers: Saving map 'ProceduralLevels' took 0.310
+[2019.05.11-13.42.53:429][402]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2019.05.11-13.42.56:390][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.05.11-13.43.33:266][239]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.11-13.44.54:643][834]BlueprintLog: New page: Compile ProceduralLevels
+[2019.05.11-13.44.54:827][834]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.05.11-13.48.30:518][ 50]BlueprintLog: New page: Compile ProceduralLevels
+[2019.05.11-13.48.30:709][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2019.05.11-13.48.32:735][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.05.11-13.48.32:796][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.05.11-13.48.33:036][162]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/ProceduralLevels7C57B6794265B2AA9D46F9B43B207809.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels.umap'
+[2019.05.11-13.48.33:078][162]LogFileHelpers: Saving map 'ProceduralLevels' took 0.319
+[2019.05.11-13.48.47:411][978]BlueprintLog: New page: Compile ProceduralLevels
+[2019.05.11-13.48.47:597][978]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.05.11-13.48.48:244][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.05.11-13.48.48:471][  7]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/ProceduralLevelsA398052D4CB94543CC2DE4B5C1DBAC69.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels.umap'
+[2019.05.11-13.48.48:507][  7]LogFileHelpers: Saving map 'ProceduralLevels' took 0.302
+[2019.05.11-13.49.38:416][862]BlueprintLog: New page: Compile ProceduralLevels
+[2019.05.11-13.49.38:596][862]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.05.11-13.49.40:717][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.05.11-13.49.40:773][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.05.11-13.49.41:009][971]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/ProceduralLevels02186FC2427759FAAD0A96BB9A43113C.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels.umap'
+[2019.05.11-13.49.41:045][971]LogFileHelpers: Saving map 'ProceduralLevels' took 0.305
+[2019.05.11-13.49.43:492][ 99]LogTemp: Repeating last play command: Standalone Game
+[2019.05.11-13.49.43:545][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.05.11-13.50.34:902][313]Cmd: DELETE
+[2019.05.11-13.50.34:902][313]Cmd: ACTOR DELETE
+[2019.05.11-13.50.34:975][313]LogEditorActor: Deleted Actor: DirectionalLight
+[2019.05.11-13.50.35:012][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.05.11-13.50.35:013][313]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2019.05.11-13.50.37:380][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.05.11-13.50.37:441][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.05.11-13.50.37:673][453]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/ProceduralLevels088F17854215647438980684ADD962ED.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels.umap'
+[2019.05.11-13.50.37:727][453]LogFileHelpers: Saving map 'ProceduralLevels' took 0.324
+[2019.05.11-13.50.37:772][453]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2019.05.11-13.50.37:784][453]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Procedural01, Actor: /Game/ThirdPersonBP/Maps/ProceduralLevels/Procedural01.Procedural01:PersistentLevel.REINST_Procedural01_C_0
+[2019.05.11-13.50.37:915][453]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/Procedural013FB242484A359C6F7A7935892EE3532A.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels/Procedural01.umap'
+[2019.05.11-13.50.37:921][453]LogFileHelpers: Saving map 'Procedural01' took 0.188
+[2019.05.11-13.51.00:439][614]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UAIBlueprintHelperLibrary::SpawnAIFromClass' [Element not found.]
+[2019.05.11-13.51.18:173][612]BlueprintLog: New page: Compile ProceduralLevels
+[2019.05.11-13.51.18:355][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.05.11-13.52.40:607][280]BlueprintLog: New page: Compile ProceduralLevels
+[2019.05.11-13.52.40:790][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.05.11-13.52.42:279][358]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.05.11-13.52.42:339][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.05.11-13.52.42:572][358]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/ProceduralLevels6F11C81A42EB839FDEE42AAC2A32064C.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels.umap'
+[2019.05.11-13.52.42:612][358]LogFileHelpers: Saving map 'ProceduralLevels' took 0.312
+[2019.05.11-13.52.43:798][422]LogTemp: Repeating last play command: Standalone Game
+[2019.05.11-13.52.43:855][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2019.05.11-13.54.18:607][ 91]BlueprintLog: New page: Compile ProceduralLevels
+[2019.05.11-13.54.18:791][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.05.11-13.54.55:192][109]BlueprintLog: New page: Compile ProceduralLevels
+[2019.05.11-13.54.55:381][109]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2019.05.11-13.54.56:138][144]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.05.11-13.54.56:377][144]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/ProceduralLevels745823AB41EF75801381B3B170A86663.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels.umap'
+[2019.05.11-13.54.56:414][144]LogFileHelpers: Saving map 'ProceduralLevels' took 0.317
+[2019.05.11-13.54.56:843][164]LogTemp: Repeating last play command: Standalone Game
+[2019.05.11-13.54.56:902][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.05.11-13.55.24:218][776]BlueprintLog: New page: Compile ProceduralLevels
+[2019.05.11-13.55.24:404][776]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.05.11-13.55.26:223][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.05.11-13.55.26:284][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.05.11-13.55.26:518][869]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/ProceduralLevelsD3057D624422DD6ED29BA49E5C394C30.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels.umap'
+[2019.05.11-13.55.26:567][869]LogFileHelpers: Saving map 'ProceduralLevels' took 0.322
+[2019.05.11-13.55.35:983][396]BlueprintLog: New page: Compile ProceduralLevels
+[2019.05.11-13.55.36:167][396]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.05.11-13.55.37:719][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.05.11-13.55.37:778][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.05.11-13.55.38:019][479]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/ProceduralLevelsA84C64804E74CDE62050BF8850E23C68.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels.umap'
+[2019.05.11-13.55.38:057][479]LogFileHelpers: Saving map 'ProceduralLevels' took 0.316
+[2019.05.11-13.55.39:115][536]LogTemp: Repeating last play command: Standalone Game
+[2019.05.11-13.55.39:170][536]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.05.11-13.56.41:280][590]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/EnemyBP.EnemyBP
+[2019.05.11-13.57.57:359][987]BlueprintLog: New page: Compile EnemyBP
+[2019.05.11-13.57.57:580][987]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.05.11-13.57.57:966][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyBP" FILE="../../../../../../Users/aless/Documents/GameJam10_5_19/Content/AI/EnemyBP.uasset" SILENT=true
+[2019.05.11-13.57.58:009][  5]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/EnemyBP62C79B564CF70F00B4C7F0986A3F16EF.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/AI/EnemyBP.uasset'
+[2019.05.11-13.57.59:503][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.05.11-13.57.59:569][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.05.11-13.57.59:801][ 89]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/ProceduralLevels4B7310CA49869C4E09C1209780C28781.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels.umap'
+[2019.05.11-13.57.59:839][ 89]LogFileHelpers: Saving map 'ProceduralLevels' took 0.309
+[2019.05.11-13.58.00:471][126]LogTemp: Repeating last play command: Standalone Game
+[2019.05.11-13.58.00:525][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.05.11-13.58.55:486][663]BlueprintLog: New page: Compile ProceduralLevels
+[2019.05.11-13.58.55:674][663]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.05.11-13.58.56:278][690]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.05.11-13.58.56:543][690]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/ProceduralLevels7D0D7A4A44B0D008D5C507AD7288DD6F.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels.umap'
+[2019.05.11-13.58.56:582][690]LogFileHelpers: Saving map 'ProceduralLevels' took 0.350
+[2019.05.11-13.59.30:884][613]BlueprintLog: New page: Compile ProceduralLevels
+[2019.05.11-13.59.31:070][613]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.05.11-13.59.31:487][630]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.05.11-13.59.31:716][630]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/ProceduralLevels2E954AB442C92761AE6C1EBC4EB1A656.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels.umap'
+[2019.05.11-13.59.31:755][630]LogFileHelpers: Saving map 'ProceduralLevels' took 0.304
+[2019.05.11-13.59.33:033][698]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2019.05.11-13.59.33:819][742]LogTemp: Repeating last play command: Standalone Game
+[2019.05.11-13.59.33:868][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.05.11-13.59.46:258][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.05.11-14.00.10:824][603]BlueprintLog: New page: Compile ProceduralLevels
+[2019.05.11-14.00.11:001][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.05.11-14.00.12:462][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.05.11-14.00.12:525][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.05.11-14.00.12:776][684]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/ProceduralLevelsC34EB77142EEBDFAC997C8B61FF9B932.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels.umap'
+[2019.05.11-14.00.12:814][684]LogFileHelpers: Saving map 'ProceduralLevels' took 0.328
+[2019.05.11-14.00.13:265][708]LogTemp: Repeating last play command: Standalone Game
+[2019.05.11-14.00.13:325][708]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.05.11-14.01.37:477][604]BlueprintLog: New page: Compile ProceduralLevels
+[2019.05.11-14.01.37:660][604]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.05.11-14.01.39:813][717]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.05.11-14.01.39:871][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.05.11-14.01.40:096][717]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/ProceduralLevels0B0EBB5E4E15A06B0CB525BDAD703EB2.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels.umap'
+[2019.05.11-14.01.40:136][717]LogFileHelpers: Saving map 'ProceduralLevels' took 0.301
+[2019.05.11-14.01.49:539][235]LogTemp: Repeating last play command: Standalone Game
+[2019.05.11-14.01.49:598][235]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.05.11-14.05.05:262][715]BlueprintLog: New page: Compile ProceduralLevels
+[2019.05.11-14.05.05:466][715]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.05.11-14.05.05:974][735]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.05.11-14.05.06:206][735]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/ProceduralLevels7E7506A44AEE93A95283D18F5DC4E8C9.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels.umap'
+[2019.05.11-14.05.06:250][735]LogFileHelpers: Saving map 'ProceduralLevels' took 0.321
+[2019.05.11-14.08.27:782][167]BlueprintLog: New page: Compile ProceduralLevels
+[2019.05.11-14.08.27:970][167]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.05.11-14.08.28:941][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.05.11-14.08.29:174][216]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/ProceduralLevels1A4640DC475B3CD44CCFF79C47043F14.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels.umap'
+[2019.05.11-14.08.29:213][216]LogFileHelpers: Saving map 'ProceduralLevels' took 0.314
+[2019.05.11-14.18.29:064][380]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2019.05.11-14.18.29:318][380]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/ProceduralLevels_Auto1B14CD35B41DA3C5E17A4829F4A69FD6C.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/Autosaves/Game/ThirdPersonBP/Maps/ProceduralLevels_Auto1.umap'
+[2019.05.11-14.18.29:324][380]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ProceduralLevels' took 0.299
+[2019.05.11-14.18.29:324][380]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.299
+[2019.05.11-14.45.41:986][213]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.05.11-14.46.02:857][402]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.05.11-14.47.04:113][964]BlueprintLog: New page: Compile ProceduralLevels
+[2019.05.11-14.47.04:669][964]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.05.11-14.47.06:238][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.05.11-14.47.06:301][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.05.11-14.47.06:536][ 44]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/ProceduralLevels141BDE2847F8E055AB5CFA987C59F16E.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels.umap'
+[2019.05.11-14.47.06:578][ 44]LogFileHelpers: Saving map 'ProceduralLevels' took 0.314
+[2019.05.11-14.47.15:852][574]BlueprintLog: New page: Compile ProceduralLevels
+[2019.05.11-14.47.16:039][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.05.11-14.47.16:574][598]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.05.11-14.47.16:801][598]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/ProceduralLevelsE8503C5A4E52CE37279A4F8F32A5DC55.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels.umap'
+[2019.05.11-14.47.16:839][598]LogFileHelpers: Saving map 'ProceduralLevels' took 0.300
+[2019.05.11-14.47.18:561][687]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.05.11-14.47.25:411][ 80]LogTemp: Repeating last play command: Standalone Game
+[2019.05.11-14.47.25:467][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.05.11-14.49.38:080][834]BlueprintLog: New page: Compile ProceduralLevels
+[2019.05.11-14.49.38:260][834]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.05.11-14.49.38:646][851]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.05.11-14.49.38:856][851]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/ProceduralLevels8357C8B64738A63EFF06CBA4600ACB3C.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels.umap'
+[2019.05.11-14.49.38:898][851]LogFileHelpers: Saving map 'ProceduralLevels' took 0.295
+[2019.05.11-14.49.40:215][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.05.11-14.50.20:639][330]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ProceduralLevels/Procedural01.Procedural01
+[2019.05.11-14.50.20:670][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.05.11-14.50.20:694][330]Cmd: MAP LOAD FILE="../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels/Procedural01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.11-14.50.20:694][330]LightingResults: New page: Lighting Build
+[2019.05.11-14.50.20:695][330]LoadErrors: New page: Loading map: Procedural01.umap
+[2019.05.11-14.50.20:824][330]MapCheck: New page: Map Check
+[2019.05.11-14.50.20:824][330]LightingResults: New page: Lighting Build
+[2019.05.11-14.50.20:907][330]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2019.05.11-14.50.20:927][330]LogAIModule: Creating AISystem for world Procedural01
+[2019.05.11-14.50.20:929][330]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.11-14.50.20:967][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.05.11-14.50.21:011][330]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.11-14.50.21:011][330]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.109ms to complete.
+[2019.05.11-14.50.21:016][330]LogFileHelpers: Loading map 'Procedural01' took 0.346
+[2019.05.11-14.50.21:088][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.05.11-14.50.28:497][713]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.05.11-14.50.33:688][ 18]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Maps/ProceduralLevels/Spawner.Spawner
+[2019.05.11-14.50.33:851][ 18]LogBlueprintActionDatabase: DeferredRemoveEntry - Object: NULL (ObjectIndex = 84894, ObjectSerialNumber = 39576)
+[2019.05.11-14.50.33:851][ 18]LogBlueprintActionDatabase: DeferredRemoveEntry - Object: NULL (ObjectIndex = 57483, ObjectSerialNumber = 39600)
+[2019.05.11-14.50.33:970][ 18]LogBlueprintActionDatabase: DeferredRemoveEntry - Object: NULL (ObjectIndex = 84894, ObjectSerialNumber = 39576)
+[2019.05.11-14.50.33:970][ 18]LogBlueprintActionDatabase: DeferredRemoveEntry - Object: NULL (ObjectIndex = 57483, ObjectSerialNumber = 39600)
+[2019.05.11-14.52.16:735][933]BlueprintLog: New page: Compile Spawner
+[2019.05.11-14.52.16:900][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.05.11-14.52.26:484][495]BlueprintLog: New page: Compile Spawner
+[2019.05.11-14.52.26:656][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.05.11-14.52.27:285][528]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/SpawnerCBE5AFBD4816FE7D694837AB6FEE05AB.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels/Spawner.uasset'
+[2019.05.11-14.53.22:729][757]BlueprintLog: New page: Compile Spawner
+[2019.05.11-14.53.22:895][757]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.05.11-14.53.23:361][780]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/SpawnerA92597E64D16487B43C53192614DF8F2.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels/Spawner.uasset'
+[2019.05.11-14.53.24:965][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.05.11-14.53.26:806][981]LogTemp: Repeating last play command: Standalone Game
+[2019.05.11-14.53.26:853][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.05.11-14.53.35:980][443]LogSlate: Window 'EnemyBP' being destroyed
+[2019.05.11-14.53.35:987][443]LogSlate: Window 'EnemyBP' being destroyed
+[2019.05.11-14.53.35:989][443]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.11-14.53.42:721][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-14.53.46:044][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-14.53.46:218][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.05.11-14.53.46:375][ 42]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/Procedural01E371EC8E455C8632BFED54AC29D021BF.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels/Procedural01.umap'
+[2019.05.11-14.53.46:441][ 42]LogSavePackage: Moving '../../../../../../Users/aless/Documents/GameJam10_5_19/Saved/Procedural01_BuiltData329276F748BA13B81AE198B83679F664.tmp' to '../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels/Procedural01_BuiltData.uasset'
+[2019.05.11-14.53.49:876][237]LogAIModule: Creating AISystem for world Procedural02
+[2019.05.11-14.53.49:881][237]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ProceduralLevels/Procedural02.Procedural02
+[2019.05.11-14.53.49:921][237]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.05.11-14.53.49:926][237]Cmd: MAP LOAD FILE="../../../../../../Users/aless/Documents/GameJam10_5_19/Content/ThirdPersonBP/Maps/ProceduralLevels/Procedural02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.11-14.53.49:926][237]LightingResults: New page: Lighting Build
+[2019.05.11-14.53.49:926][237]LoadErrors: New page: Loading map: Procedural02.umap
+[2019.05.11-14.53.49:929][237]MapCheck: New page: Map Check
+[2019.05.11-14.53.49:929][237]LightingResults: New page: Lighting Build
+[2019.05.11-14.53.49:958][237]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.05.11-14.53.49:961][237]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.11-14.53.50:000][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.05.11-14.53.50:038][237]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.11-14.53.50:038][237]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.143ms to complete.
+[2019.05.11-14.53.50:038][237]LogFileHelpers: Loading map 'Procedural02' took 0.117
+[2019.05.11-14.53.54:407][488]LogRHI: Error: SyncInterval 0
+[2019.05.11-14.53.54:407][488]LogRHI: Error: SwapChainDesc.BufferDesc.Width 283
+[2019.05.11-14.53.54:407][488]LogRHI: Error: SwapChainDesc.BufferDesc.Height 85
+[2019.05.11-14.53.54:407][488]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2019.05.11-14.53.54:407][488]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2019.05.11-14.53.54:407][488]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2019.05.11-14.53.54:407][488]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2019.05.11-14.53.54:407][488]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2019.05.11-14.53.54:407][488]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2019.05.11-14.53.54:407][488]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2019.05.11-14.53.54:407][488]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2019.05.11-14.53.54:407][488]LogRHI: Error: SwapChainDesc.BufferCount 1
+[2019.05.11-14.53.54:407][488]LogRHI: Error: SwapChainDesc.OutputWindow 00000000001B0CE2
+[2019.05.11-14.53.54:407][488]LogRHI: Error: SwapChainDesc.Windowed true
+[2019.05.11-14.53.54:407][488]LogRHI: Error: SwapChainDesc.SwapEffect 0
+[2019.05.11-14.53.54:407][488]LogRHI: Error: SwapChainDesc.Flags 2
+[2019.05.11-14.53.54:653][488]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:361 
+ with error E_INVALIDARG
+[2019.05.11-14.53.55:337][488]LogWindows: Windows GetLastError: The operation completed successfully. (0)
